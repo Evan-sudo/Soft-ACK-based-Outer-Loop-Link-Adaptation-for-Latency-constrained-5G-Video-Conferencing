@@ -7,7 +7,7 @@ video_out_bin = '/Users/evan/Desktop/studies & research/final year project/5g pd
 video_out = '/Users/evan/Desktop/studies & research/final year project/video_out'
 
 
-#二进制读取video文件然后转十六进制，输出out.txt
+#bin to hex，output out.txt
 def bi_read_video (your_video_path, your_outfile_path):
     f = open(your_video_path, 'rb')
     outfile1 = open(your_outfile_path, "w")
