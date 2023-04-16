@@ -1,0 +1,4 @@
+# Soft-ACK-based-Outer-Loop-Link-Adaptation-for-Latency-constrained-5G-Video-Conferencing
+
+The high reliability and low latency requirements of multimedia services necessitate the design of more efficient link adaptation methods. In this paper, we introduce instantaneous CSI reporting, specifically designed for 5G video conferencing, and enhance the outer loop link adaptation based on soft Acknowledgement (Soft-ACK). We also formulate a resource allocation problem in 5G physical downlink shared channel (PDSCH) to balance the uplink and downlink traffic in compliance with the specified latency constraints. Our proposed scheme operates in a relatively straightforward manner. It outperforms conventional link adaptation methods regarding Block-Level Error Rate (BLER) and effectively adheres to stringent latency constraints in video transmission simulations.
+Code for Soft-ACK based Outer Loop Link Adaptation for Latency-constrained 5G Video Conferencing
