@@ -15,3 +15,17 @@ The high reliability and low latency requirements of multimedia services necessi
 - To run the 5G PDSCH  video transmission experiment, first convert the video segments to binary text files, the Python code can be found in /**video_codec**/**v2b** (change the path for accurate file access)
 
 - We only listed part of the video representations, where the full database can be downloaded in: https://ece.uwaterloo.ca/~zduanmu/publications/tbc2018qoe/
+ 
+ ## Citation:
+ If you find our work helpful, please consider citing our paper:
+```
+@INPROCEEDINGS{10437503,
+  author={Liu, Mufan and Chen, Jie and Wu, Gang and Ji, Lei and Wang, Hao},
+  booktitle={GLOBECOM 2023 - 2023 IEEE Global Communications Conference}, 
+  title={Soft-Ack based Outer Loop Link Adaptation for Latency-constrained 5G Video Conferencing}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={388-393},
+  doi={10.1109/GLOBECOM54140.2023.10437503}}
+```
